@@ -21,7 +21,9 @@ def get_vectorstore_from_file(file):
     docs = [Document(page_content=item["text"]) for item in data]
 
     # create a vector store from the chunks
-    vector_store = Chroma.from_documents(docs, OpenAIEmbeddings())
+    vector_store = Chroma.from_documents(
+        docs, OpenAIEmbeddings(), collection_metadata={"hnsw:space": "cosine"}
+    )
 
     return vector_store
 
