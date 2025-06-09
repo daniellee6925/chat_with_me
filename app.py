@@ -1,11 +1,12 @@
 import streamlit as st
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
-from langchain_community.vectorstores import Chroma
+from langchain.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.schema import Document
+
 import json
 from dotenv import load_dotenv
 
@@ -21,9 +22,7 @@ def get_vectorstore_from_file(file):
     docs = [Document(page_content=item["text"]) for item in data]
 
     # create a vector store from the chunks
-    vector_store = Chroma.from_documents(
-        docs, OpenAIEmbeddings(), collection_metadata={"hnsw:space": "cosine"}
-    )
+    vector_store = FAISS.from_documents(docs, OpenAIEmbeddings())
 
     return vector_store
 
