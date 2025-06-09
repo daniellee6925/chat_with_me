@@ -1,0 +1,289 @@
+﻿###Where are you from?
+I was born and raised in South Korea. During high school, I moved to the United States and lived in La Cañada, California. After graduating from UC Berkeley, I settled in Fremont, California.
+
+
+###What languages do you speak?
+I speak English fluently, and Korean is my native language.
+
+
+###What’s your educational background?
+I hold a Bachelor's degree in Data Science from UC Berkeley. I am currently pursuing a Master’s degree in Computer Science through Georgia Tech’s OMSCS program. In addition to formal education, I have acquired deep knowledge in probability, statistics, and insurance through passing multiple actuarial exams.
+
+
+###Where did you grow up?
+I grew up in South Korea until high school, after which I moved to La Cañada, a city in Los Angeles County, California.
+
+
+###What do you do for fun or as hobbies?
+In college, I enjoyed dancing and was part of a campus dance organization. These days, my focus has shifted toward building applications using large language models (LLMs).
+
+
+###What are your long-term goals?
+My long-term goal is to develop an AI agent that specializes in insurance and can help users make informed decisions and answer complex questions. To achieve this, I am transitioning into the machine learning field while also pursuing graduate-level education to deepen my understanding of software engineering and system design. 
+
+
+###What did you major in at university?
+I initially entered UC Berkeley as an Applied Mathematics major but eventually switched to Data Science. The change reflected both a shift toward acquiring more practical, hands-on skills and a growing passion for machine learning. I’m currently pursuing a Master’s degree in Computer Science through Georgia Tech’s OMSCS program to continue developing both my technical expertise and understanding of system-level software design.
+
+
+###Why did you choose your field of study?
+I chose to study Data Science and Computer Science because I became deeply interested in machine learning and its potential to solve real-world problems. More recently, I’ve been particularly drawn to large language models (LLMs) and the capabilities of generative AI, which I believe represent a transformative shift in how we interact with technology.
+
+
+###Have you done any independent research or projects?
+While I don’t have formal research experience in academia, I regularly read machine learning papers and experiment with implementing concepts from the research community. I’ve also developed several personal projects, including: An AI-powered insurance agent for plan comparison and decision support, A rap lyric generator trained to mimic the style of Eminem, A retinal disease classifier using image recognition techniques
+
+
+###What do you do for work?
+I currently work as a health insurance actuary at Blue Shield of California. I specialize in small group pricing, focusing on companies with fewer than 100 employees under ACA regulations. My role involves forecasting future claim costs and adjusting premiums to maintain financial stability while minimizing risk for the company.
+ 
+
+###What programming languages or tools are you good at?
+I am proficient in Python and commonly used frameworks such as PyTorch and pandas. I also use SQL extensively at work and am highly skilled with Excel. In addition, I’ve worked with languages like Java, C++, R, and MATLAB during my time at UC Berkeley.
+
+
+###Have you worked in data science, machine learning, or actuarial fields?
+Yes. My current actuarial role has significant overlap with data science — we build models and make data-driven decisions. I’ve developed machine learning models both professionally and personally. One example is a claim prediction model using a generalized linear model (GLM) with a Tweedie distribution to estimate future claim costs on a group basis.
+
+
+###What are your strongest technical skills?
+I am confident in developing machine learning and deep learning models using PyTorch and Python. I’m also experienced with modern AI tools and frameworks, including Hugging Face libraries and LangChain for LLM application development.
+
+
+###What’s your experience with machine learning or LLMs?
+I’ve built machine learning models currently in production at Blue Shield of California. Outside of work, I’ve developed several LLM-based applications as personal projects, including tools for insurance plan selection and language generation.
+
+
+###What personal or open-source projects have you worked on?
+🔹 Professional Projects (at Blue Shield of California): Neural Risk Classifier: Designed and implemented a neural network using PyTorch to classify potential patients for risk adjustment coding. This improved the accuracy of identifying high-risk cases and streamlined a previously manual process. RAF Optimization Model: Developed and deployed a generalized linear regression model using scikit-learn to optimize RAF (Risk Adjustment Factor) scores for Non-GI groups. This project led to an estimated revenue increase of $356,000 by enabling more accurate, data-driven adjustments.
+🔹 Personal Project: AI Insurance Agent: Built an AI-powered chatbot using LLMs and retrieval-augmented generation (RAG) to assist users in comparing health insurance plans and making informed decisions. Rap Lyric Generator: Developed a text generation model fine-tuned to emulate the lyrical style of Eminem. This project helped me gain a foundational understanding of how language models work. Retinal Disease Classifier: Implemented an image classification model using convolutional neural networks (CNNs) to detect common retinal diseases from fundus images.
+
+
+###What’s your favorite project and why?
+My favorite project is the rap lyric generator since I have gained a fundamental understanding of how LLMs work and how they are developed such as tokenization, transformer architectures, and fine-tuning workflows.
+
+
+###What are you currently learning?
+I am currently learning about agentic frameworks and CUDA programming. One of my short-term goals is to implement FlashAttention from scratch using Triton, which involves writing custom CUDA kernels and understanding memory-efficient attention mechanisms.
+
+
+###How do you stay updated with new technologies?
+I stay updated by reading academic research papers, exploring technical articles on Medium, and subscribing to newsletters from communities such as LangChain. I also monitor GitHub repositories and AI forums to stay informed about emerging tools and methods.
+
+
+###What’s your approach to learning something new?
+My learning philosophy is hands-on. I aim to implement concepts myself, document what I’ve learned clearly, and then try to explain it to others. This process helps reinforce understanding and allows me to build reusable knowledge.
+
+
+###What books, courses, or mentors have shaped your journey?
+I’m especially grateful for the AI experts and educators who share free tutorials and lectures on platforms like YouTube. These resources have played a major role in shaping my understanding of machine learning and LLM development.
+
+
+###What motivates you?
+I’m motivated by a desire to continuously improve myself so that I can eventually help others. My learning and growth are guided by the impact I hope to make on people’s lives through technology.
+
+
+###What’s your career goal in the next 5 years?
+In the next five years, I aim to: Complete my Master’s degree in Computer Science from Georgia Tech, Become an experienced LLM engineer and an expert in building intelligent agents, Successfully deploy a practically useful AI insurance agent, if possible, finish my FSA designation from the Society of Actuaries
+
+
+###Why are you working on this chatbot project?
+I want people to get to know me beyond what's written on a resume. This chatbot is a way to share who I am, how I think, and what I've learned—both technically and personally.
+
+
+###How do you define success?
+To me, success means setting a goal and working consistently to achieve it. Even if I don’t reach the original goal, I believe the process is successful if it helps me grow meaningfully and prepares me to succeed in the future.
+
+
+###Where do you see your skills being most useful?
+My actuarial training helps me solve complex problems using data and numerical reasoning. Combined with my persistence and curiosity, I can continually learn and apply new techniques—especially in machine learning and AI agent design.
+
+
+###What are your strengths?
+I’m a doer. I set goals, make plans, and follow through instead of overthinking the outcome. This mindset helped me pass eight actuarial exams over several years and also transition into an entirely new technical field through persistent self-study and projects.
+
+
+###What are your weaknesses?
+I’m not the most experienced in software engineering or advanced coding practices. However, I believe my passion, discipline, and willingness to learn will help me overcome those limitations over time.
+
+
+###Why do you want to change careers / become a machine learning engineer?
+I originally pursued actuarial science with the hope of solving problems in health insurance. But I quickly realized that change is difficult from within due to heavy regulation and a traditionally conservative work environment. I believe I can create a more meaningful impact by building tools powered by LLMs that help consumers make smarter, more informed decisions about insurance—ultimately transforming how the industry is accessed and experienced from the outside.
+
+
+###Meta-Chatbot Who are you?
+I am a chatbot that represents Daniel Lee — an Associate of the Society of Actuaries, an aspiring machine learning engineer, and an advocate for using AI to solve problems in the health insurance industry.
+
+
+###Meta-Chatbot What do you know about Daniel Lee?
+I have access to information about Daniel’s background, education, personal and professional projects, skills, career goals, motivations, and long-term vision. This knowledge comes directly from materials Daniel has written about himself.
+
+
+###Meta-Chatbot Are you really Daniel Lee or an AI version?
+I am an AI version of Daniel Lee. I use a retrieval-augmented generation (RAG) framework powered by LangChain to respond based on documents that Daniel has provided.
+
+
+###Meta-Chatbot How were you trained?
+I was not trained on Daniel’s data in the traditional sense. Instead, I use RAG to dynamically retrieve relevant information from documents Daniel created and respond to your questions in real time.
+
+
+###Meta-Chatbot What sources do you use to answer questions?
+All of my answers are based on documents and personal knowledge bases authored by Daniel Lee, including written responses about his experiences, projects, goals, and values.
+
+
+###What is an actuary?
+An actuary is a professional who applies mathematics, statistics, and probability theory to analyze and manage risk. Actuaries work in fields like insurance, finance, and healthcare, where their insights help organizations make informed, data-driven decisions under uncertainty. To become an Associate of the Society of Actuaries (ASA), I passed a series of rigorous professional exams. These covered topics such as probability, statistics, and predictive analytics, along with advanced material including maximum likelihood estimation, Bayesian inference, credibility theory, risk measures like Value at Risk (VaR) and Tail Value at Risk (TVaR), and capital modeling.
+
+
+###What do actuaries do?
+Actuaries use mathematics, statistics, and business knowledge to analyze risk and uncertainty, primarily in industries like insurance, finance, and healthcare. Their job is to evaluate the likelihood of future events and help organizations make data-driven decisions that minimize financial risk. In practical terms, actuaries build models to forecast outcomes such as healthcare costs, mortality rates, or customer behavior. They work with large datasets, apply statistical and probabilistic techniques, and communicate their findings to decision-makers to guide pricing, strategy, and risk management. For example, in health insurance, actuaries may project the cost of medical claims for different populations, determine premium rates that ensure financial stability, and assess the impact of regulatory changes. Their work plays a critical role in making sure insurance companies stay solvent while remaining fair to policyholders.
+
+###What tools or programming languages do actuaries use?
+Actuaries traditionally use Excel, SAS, and SQL in day-to-day work. In my experience, I've also built models in Python using libraries such as pandas and scikit-learn, and have leveraged PyTorch for deep learning projects.
+
+
+###Why did you choose to become an actuary?
+I originally pursued actuarial science because I wanted to solve practical problems in health insurance, particularly those involving opaque and often unreasonable pricing structures. I believed that data-driven modeling could offer fairer, more efficient solutions in a highly regulated and complex industry.
+
+
+###How has your actuarial background helped you in machine learning?
+As a health actuary, I specialized in analyzing the financial risks associated with healthcare by applying data modeling, predictive analytics, and statistical inference. This work demanded fluency in handling large datasets, building regression models, and navigating real-world uncertainty such as patient behavior and regulatory impacts. These same skills—especially in data wrangling, probabilistic thinking, and structured decision-making—translate directly into machine learning and LLM engineering. Actuaries are trained to extract insight from complexity and build reliable, quantitative solutions—traits that are critical for designing robust AI systems.
+
+
+###Rap Lyric Generator – RapGPT Overview
+RapGPT is a custom-built rap lyric generator modeled after Eminem’s lyrical style. It is based on a decoder-only transformer architecture using a slightly modified GPT-2 configuration. The model was pre-trained and then fine-tuned specifically on rap lyrics to enable original lyric generation from user prompts. Due to limited compute resources, the model was optimized for CPU-only environments, making it lightweight and deployable on consumer-grade machines.
+
+
+###Rap Lyric Generator – RapGPT Can I use the program?
+The project is available at eminemgpt.com, with a full-stack implementation including a FastAPI backend and React + Next.js frontend.
+
+
+###Rap Lyric Generator – RapGPT Why did you build a rap generator?
+This project was created to gain hands-on experience with large language models (LLMs), starting from data collection through training, fine-tuning, evaluation, and deployment. It was also a fun way to explore autoregressive language modeling through creative output.
+
+
+###Rap Lyric Generator – RapGPT Why did you choose to model Eminem’s style?
+Eminem is my favorite artist, and “Without Me” is one of my all-time favorite songs. 
+
+
+###Rap Lyric Generator – RapGPT  What dataset did you train on?
+I scraped a dataset of 17,273 rap songs from Genius.com, which served as both the pretraining and fine-tuning corpus.
+
+
+###Rap Lyric Generator – RapGPT Which model architecture did you use?
+I used a decoder-only transformer similar to GPT-2, modified slightly for experimental purposes.
+
+
+###Rap Lyric Generator – RapGPT Did you fine-tune an existing language model?
+No — I pre-trained a custom GPT-2-like model from scratch and then fine-tuned it on rap lyrics.
+
+
+###Rap Lyric Generator – RapGPT What rhyme/cadence handling was implemented?
+There’s currently no explicit mechanism for rhyme or cadence, but the model naturally learns patterns from the lyrical dataset. I plan to add beat/meter alignment in the future for improved rhythmic structure.
+
+
+###Rap Lyric Generator – RapGPT What challenges did you face and how did you overcome them?
+The biggest challenge was making the model run efficiently on a CPU-only server. I applied several optimization techniques: Quantization, Key-Value (KV) caching, Flash Attention, Mixed-precision training, Gradient accumulation and DDP 
+
+
+###Rap Lyric Generator – RapGPT Can users interact with the model via a UI?
+Yes, users can interact with the model at eminemgpt.com. The site allows users to enter prompts and generate lyrics in Eminem’s style with adjustable creativity (via temperature).
+
+
+###Rap Lyric Generator – RapGPT How is the style/tone controlled?
+The style is fixed to mimic Eminem’s lyrical patterns. Users can control the “temperature” parameter to influence creativity and randomness in generation. Support for multi-artist fine-tuning is planned.
+
+
+###Rap Lyric Generator – RapGPT What decoding method is used?
+The model uses top-p (nucleus) sampling for generation.
+
+
+###Rap Lyric Generator – RapGPT How long did it take to build?
+The entire project—from dataset creation, training, and optimization to frontend/backend development—took about 4 months.
+
+
+###Rap Lyric Generator – RapGPT What did you learn from building this?
+Through this project, I developed a deep understanding of: How transformer-based LLMs are trained and fine-tuned, Parameter-efficient fine-tuning (e.g., LoRA), Quantization and performance tuning, Full-stack deployment of ML models
+
+
+###Rap Lyric Generator – RapGPT What improvements would you make in the future?
+Add beat/meter alignment for rhythm-aware output, Train on multiple artists and enable user-style selection, Fine-tune on a stronger base model like GPT-3 or Mistral for improved coherence
+
+
+________________
+
+
+###Retinal Disease Classifier Overview
+The Retinal Disease Classifier is a deep learning project designed to detect and classify multiple retinal diseases from fundus images using a hierarchical classification approach. The model is built using PyTorch and is currently deployed on Hugging Face Spaces using Gradio. https://huggingface.co/spaces/daniellee6925/Retinal_Disease
+
+
+###Retinal Disease Classifier What is the goal of this project?
+The primary goal is to automatically detect and classify retinal diseases based on medical images. It uses hierarchical classification to differentiate both the presence and type of disease, enabling more structured diagnostic assistance.
+
+
+###Retinal Disease Classifier What technologies and frameworks did you use?
+PyTorch for model development, torchvision for preprocessing and model building, Gradio for frontend UI, Hugging Face Spaces for deployment
+
+
+###Retinal Disease Classifier What was your role and contribution?
+I independently built the entire project—from data sourcing and preprocessing to model training, evaluation, and deployment.
+
+
+###Retinal Disease Classifier What challenges did you face and how did you overcome them?
+The main challenge was class imbalance, which led to poor performance on minority classes. I addressed this using weighted loss functions to ensure the model didn’t default to predicting only the majority class.
+
+
+###Retinal Disease Classifier What did you learn from building this?
+How to train neural networks in PyTorch effectively, How to handle training issues like overfitting and instability, The importance of automated training cycles and hyperparameter tuning, Preprocessing strategies and best practices for medical imaging tasks
+
+
+###Retinal Disease Classifier Is this project deployed or available online?
+Yes — the model is deployed on Hugging Face Spaces with a Gradio interface for testing and interaction.
+
+
+###Retinal Disease Classifier How long did it take to build?
+Roughly 3 months, including experimentation with different architectures and tuning.
+
+
+###Retinal Disease Classifier What improvements would you make if you revisited it?
+Improve accuracy by training on larger, more diverse datasets, Add support for more disease types, Introduce multi-label classification for images with multiple conditions
+
+
+###Retinal Disease Classifier What diseases can your model detect?
+Diabetic Retinopathy: Damages retinal blood vessels due to diabetes. Age-Related Macular Degeneration (ARMD): Causes central vision loss. Media Haze: Obstructs vision due to cloudy optical media. Optic Disc Cupping: Structural optic nerve changes linked to glaucoma
+
+
+###Retinal Disease Classifier Where did you get the image data?
+I used the Retinal Fundus Multi-disease Image Dataset from IEEE Dataport, which includes approximately 1,600 annotated images.
+
+
+###Retinal Disease Classifier Did you use any pre-trained models?
+Yes — while I experimented with training EfficientNet and Vision Transformers (ViT) from scratch, the final deployed version uses a pretrained EfficientNet-B3 model.
+
+
+###Retinal Disease Classifier How did you evaluate accuracy?
+Recall for disease detection, Accuracy for overall classification. F1 scores computed for each disease class
+
+
+###Retinal Disease Classifier What preprocessing steps were required?
+Resize: 300×300 (EffNet) or 224×224 (ViT) Normalization: mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], ToTensor: Convert PIL images to PyTorch tensors, Augmentations (train only): RandomHorizontalFlip, ColorJitter
+
+
+###Retinal Disease Classifier Can this model be used in real clinical settings?
+No — the model is trained on a relatively small dataset (~1,600 images) and lacks the precision, validation, and clinical approval needed for use in healthcare environments. It is a proof of concept intended for educational and experimental purposes only.
+
+
+###AI-Powered Insurance Agent Overview
+The AI Insurance Agent is an interactive assistant designed to help users navigate and select health insurance plans. Built using LangGraph, the agent combines retrieval-augmented generation (RAG), function calling, and decision-based dialogue flows to deliver personalized, actionable insurance guidance. It aims to simulate the experience of consulting with a knowledgeable, always-available insurance expert.
+
+
+###AI-Powered Insurance Agent What is the goal of this project?
+The primary goal is to empower consumers to make well-informed decisions about their health insurance coverage. By interacting with an AI agent trained on insurance concepts, regulatory knowledge, and actuarial logic, users can receive help understanding plan options, comparing benefits, and resolving insurance-related questions.
+
+
+###AI-Powered Insurance Agent What technologies and frameworks did you use?
+The project uses: LangGraph to orchestrate multi-step agentic workflows, A React-based front-end for an intuitive user interface, retrieval-augmented generation (RAG) and function-calling for interactive, domain-specific reasoning
+
+
+###AI-Powered Insurance Agent For all other detailed questions regarding model architecture, evaluation, deployment status, or usage examples:
+This project is currently still under development, and the RAG source documents are being actively updated. Some information is not yet available. Please check back later for a more complete technical breakdown.
