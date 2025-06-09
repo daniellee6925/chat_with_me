@@ -1,0 +1,17 @@
+# App framework
+streamlit
+
+# LangChain core modules
+langchain
+langchain-core
+langchain-community
+langchain_openai
+
+# env variables
+dotenv
+
+# Vector database (ChromaDB or FAISS — choose one)
+chromadb
+
+# Embedding model backend (optional, for local models)
+sentence-transformers
