@@ -102,7 +102,9 @@ st.title("Chat with Daniel Lee")
 if "chat_history" not in st.session_state:
     # state does not change whenever you re-read application
     st.session_state.chat_history = [
-        AIMessage(content="Hello, I am Daniel Lee. What do you want to know about?")
+        AIMessage(
+            content="Hi there! I'm Daniel Lee — ask me anything about my background, projects, or goals."
+        )
     ]
 
 if "vector_store" not in st.session_state:
