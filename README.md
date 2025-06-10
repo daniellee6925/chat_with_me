@@ -2,6 +2,7 @@
 
 A personalized AI chatbot built with LangChain that represents Daniel Lee. It uses Retrieval-Augmented Generation (RAG) to answer questions about Daniel’s background, career, projects, and goals — based solely on documents written by Daniel himself.
 
+[Try it here](https://chatwithdaniel.streamlit.app/)
 ## Features
 
 - **RAG-based question answering** grounded in Daniel's personal content
